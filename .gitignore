@@ -1,0 +1,8 @@
+
+course-api/\.idea/
+
+course-api/target/
+
+course-api/course-api\.iml
+
+course-api/derby\.log
